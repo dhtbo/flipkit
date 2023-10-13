@@ -1,3 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>dhtbo</p>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="home">
+  <div class="banner">
+    <h1>design, develop, deploy</h1>
+    <h2>Lets do this!</h2>
+  </div>
+</div>
